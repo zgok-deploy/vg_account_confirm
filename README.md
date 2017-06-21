@@ -1,4 +1,4 @@
 vg_account_confirm
 ==================
 
-`9985825cea3ab5a0ec7eecb9546cddff77418d824457802f21874329ea76dc2a`
+`cafa048992a2eb11d6ec4c4fc2ae1d240e9787384948c9e375c8434f002f6b66`
